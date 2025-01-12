@@ -1,8 +1,8 @@
 # Godot 4+ specific ignores
-.godot/
+dont-know-yet.godot/
 
 # Godot-specific ignores
-.import/
+dont-know-yet.import/
 export.cfg
 export_presets.cfg
 

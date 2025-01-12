@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://ch5q4dy376nxm"]
+
+[ext_resource type="Texture2D" uid="uid://dlmp2yium1kel" path="res://Untitled.png" id="1_vcsgu"]
+
+[node name="FluidPartical" type="Sprite2D"]
+scale = Vector2(0.125, 0.125)
+texture = ExtResource("1_vcsgu")
